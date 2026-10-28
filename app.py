@@ -1,3 +1,4 @@
+# KR2: Epifanov
 import os
 import socket
 
